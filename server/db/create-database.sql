@@ -1,0 +1,1 @@
+create database resagg_db owner = 'resagg' encoding = 'UTF8'
