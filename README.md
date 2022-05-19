@@ -2,10 +2,12 @@
 
 ## Необходимое ПО:
 1. Go
-2. NodeJS
-3. Java
-4. Liquibase 
-5. VSCode
+2. Postgres
+3. SQL-клиент (DBeaver)
+4. NodeJS
+5. Java
+6. Liquibase 
+7. VSCode
 
 
 ## Задачи
